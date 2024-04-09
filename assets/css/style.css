@@ -1,0 +1,51 @@
+.podelis {
+  width: 573px;
+  height: 103px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 100000px;
+
+  background: linear-gradient(
+    180deg,
+    rgb(60, 255, 202) 20.611%,
+    rgba(24, 135, 255, 0) 100%
+  );
+  font-size: 50px;
+  font-family: "Bungee Spice", sans-serif;
+}
+body {
+  background-color: #47e278;
+}
+.knopkaprofile {
+  width: 94px;
+  height: 94px;
+  border-radius: 50%;
+  background-color: #00d076;
+}
+.search {
+  background-color: #282f2f;
+  width: 600px;
+  height: 80px;
+  color: beige;
+}
+header {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  gap: 35px;
+}
+.video {
+  width: 470px;
+  height: 320px;
+}
+.videoroki {
+  width: 470px;
+  height: 300px;
+}
+.shlepa1 {
+  width: 470px;
+  height: 300px;
+}
+.Ussr1 {
+  width: 470px;
+  height: 300px;
+}

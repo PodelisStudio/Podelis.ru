@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>регистрация</title>
     <link rel="stylesheet" href="./assets/css/registration.css" />
+    <script defer src="./assets/JS/registratiion.js"></script>
   </head>
   <body>
     <form id="form-reg" action="">
@@ -14,12 +15,4 @@
       <button type="submit" id="reg">Зарегистрироваться</button>
     </form>
   </body>
-  <script>
-    let btn = document.getElementById("reg");
-    btn.onclick = function () {
-      console.log(btn);
-      event.preventDefault();
-      window.location.href = window.location.origin + "/index.html";
-    };
-  </script>
 </html>

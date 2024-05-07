@@ -1,0 +1,26 @@
+body {
+  background-image: url(../img/anime-style-clouds.jpg);
+}
+.podelis {
+  width: 573px;
+  height: 103px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 100000px;
+
+  background: linear-gradient(
+    180deg,
+    rgb(60, 255, 202) 20.611%,
+    rgba(24, 135, 255, 0) 100%
+  );
+  font-size: 50px;
+  font-family: "Bungee Spice", sans-serif;
+}
+body {
+  background-color: #47e278;
+}
+.search {
+  width: 503px;
+  height: 93px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 100000px;
+}

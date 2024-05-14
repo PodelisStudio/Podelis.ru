@@ -24,3 +24,7 @@ body {
   border: 1px solid rgb(0, 0, 0);
   border-radius: 100000px;
 }
+.video {
+  width: 543px;
+  height: 303px;
+}
